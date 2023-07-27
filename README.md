@@ -9,4 +9,4 @@
 
 #### React Slick Library
 
-(https://www.react-slick.neostack.com/)
+[React-slick](https://www.react-slick.neostack.com/)
